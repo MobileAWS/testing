@@ -4,4 +4,4 @@ Inserting line.
 
 Inserted line.
 
-test.
+test. test.
